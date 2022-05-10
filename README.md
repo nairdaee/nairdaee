@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning React, AI and Machine Learning
 - 📫 How to reach me: etadriano@gmail.com
-- ⚡ Fun fact: ...I love music and play basketball, soccer during my free time
+- ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time I love playing basketball and/or soccer
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=nairdaee&show_icons=true&count_private=true"/>
