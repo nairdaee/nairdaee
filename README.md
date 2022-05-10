@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 
 ### My GitHub stats
 
-This doesn't take into account the work done in forks, private organizations, and/or Gitlab.
+This doesn't take into account the work done in forks, private organizations, and/or Gitlab...
+
+[![nairdaee's github activity graph](https://activity-graph.herokuapp.com/graph?username=nairdaee&theme=react-dark&count_private=true)](https://github.com/nairdaee)
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=nairdaee&show_icons=true&count_private=true"/>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true"/>
-
-
-[![nairdaee's github activity graph](https://activity-graph.herokuapp.com/graph?username=nairdaee&theme=react-dark&count_private=true)](https://github.com/nairdaee)
