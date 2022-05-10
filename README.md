@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: etadriano@gmail.com
 - ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time I love playing basketball and/or soccer
 
-### 💬 Get to know me, check:
+### 💬 Get to know more about me:
 * **LinkedIn:** [Adrian Etenyi](https://www.linkedin.com/in/adrian-etenyi-4590791b2/)
 
+### My GitHub stats
 
+This doesn't take into account the work done in forks, private organizations, and/or Gitlab.
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=nairdaee&show_icons=true&count_private=true"/>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true"/>
