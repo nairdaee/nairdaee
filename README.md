@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
  I’m a Fullstack Web Developer situated in Nairobi, Kenya. My specialty is Front-End development and UI/UX design
  
