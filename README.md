@@ -15,11 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ###### :computer: I’m a Fullstack Web Developer situated in Nairobi, Kenya. My specialty is Front-End development and UI/UX design
+ ###### :computer: I’m a Fullstack Web Developer situated in Nairobi, Kenya. My specialty is Front-End Development and UI/UX Design
  
+ :sparkles: I am proficient in the following:
+
+-:pushpin: Fullstack Software Development - Django⚡\
+-:pushpin: C, Java, JavaScript, PHP, Python - Pandas \
+-:pushpin: Some experience with Shopify(Liquid)\
+-:pushpin: UI/UX Design: Figma and Adobe XD
+
+- 👯 I’m looking to collaborate on interesting tech related projects!
 - 🌱 I’m currently learning React, AI and Machine Learning
-- 📫 How to reach me: etadriano@gmail.com
-- ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time I love playing basketball and/or soccer
+- 📫 How to reach me: etadriano2@gmail.com
+- ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time, I love playing basketball and/or football
 
 ### 💬 Get to know more about me:
 * **LinkedIn:** [Adrian Etenyi](https://www.linkedin.com/in/adrian-etenyi-4590791b2/)
