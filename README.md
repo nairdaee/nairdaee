@@ -27,9 +27,4 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true"/>
 
-
-[![nairdaee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nairdaee)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![nairdaee's github activity graph](https://activity-graph.herokuapp.com/graph?username=nairdaee&theme=react-dark&count_private=true)](https://github.com/nairdaee)
-
