@@ -40,4 +40,10 @@ This doesn't take into account the work done in forks, private organizations, an
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=nairdaee&show_icons=true&count_private=true"/>
 
+<a href="https://github.com/nairdaee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=nairdaee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true"></a>
+
+<a href="https://github.com/nairdaee">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+ </a>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true"/>
