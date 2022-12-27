@@ -36,14 +36,11 @@ Here are some ideas to get you started:
 
 This doesn't take into account the work done in forks, private organizations, and/or Gitlab...
 
-[![nairdaee's github activity graph](https://activity-graph.herokuapp.com/graph?username=nairdaee&theme=react-dark&count_private=true)](https://github.com/nairdaee)
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=nairdaee&show_icons=true&count_private=true"/>
+<a href="https://github.com/nairdaee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nairdaee&count_private=true&theme=radical&title_color=7CF3A0"></a>
 
 <a href="https://github.com/nairdaee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=nairdaee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true"></a>
 
 <a href="https://github.com/nairdaee">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
  </a>
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nairdaee.nairdaee" alt="visitor badge"/>
