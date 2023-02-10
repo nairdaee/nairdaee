@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 This doesn't take into account the work done in forks, private organizations, and/or Gitlab...
 
-<a href="https://github.com/nairdaee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nairdaee&count_private=true&theme=radical&title_color=7CF3A0"></a>
+<a href="https://github.com/nairdaee"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nairdaee&count_private=true&theme=radical&title_color=7CF3A0&show_icons=true"></a>
 
 <a href="https://github.com/nairdaee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=nairdaee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true&show_icons=true"></a>
 
 <a href="https://github.com/nairdaee">
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true&theme=radical&show_icons=true"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=nairdaee&show_icons=true&locale=en&count_private=true&theme=radical&show_icons=true&layout=compact"/>
  </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nairdaee.nairdaee" alt="visitor badge"/>
