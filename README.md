@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  :sparkles: I am proficient in the following:
 
 -:pushpin: Fullstack Software Development - Django⚡\
--:pushpin: C, Java, JavaScript, PHP, Python - Pandas \
+-:pushpin: C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
 -:pushpin: Some experience with Shopify(Liquid)\
 -:pushpin: UI/UX Design: Figma and Adobe XD
 
