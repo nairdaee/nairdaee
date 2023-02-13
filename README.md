@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ###### :computer: I’m a Fullstack Web Developer situated in Nairobi, Kenya. My specialty is Front-End Development and UI/UX Design
+ ###### :computer: I’m a Fullstack Web Developer situated in Nairobi, Kenya. My specialty is Front-End Development, AI-ML, Data Science and UI/UX Design
  
  :sparkles: I am proficient in the following:
 
