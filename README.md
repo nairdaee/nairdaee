@@ -1,5 +1,5 @@
 ### Hi there 👋
-## :construction_worker: I'm Adrian Etenyi ✨
+## :construction_worker: I'm Adrian Etenyi 
 <!--
 **nairdaee/nairdaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
