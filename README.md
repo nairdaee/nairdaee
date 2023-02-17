@@ -20,12 +20,12 @@ Here are some ideas to get you started:
  :sparkles: I am proficient in the following:
 
 -:pushpin: Fullstack Software Development - Django⚡\
--:pushpin: C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
+-:pushpin: AI-ML,C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
 -:pushpin: Some experience with Shopify(Liquid)\
 -:pushpin: UI/UX Design: Figma and Adobe XD
 
 - 👯 I’m looking to collaborate on interesting tech related projects!
-- 🌱 I’m currently learning React, AI and Machine Learning
+- 🌱 I’m currently learning React
 - 📫 How to reach me: etadriano2@gmail.com
 - ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time, I love playing basketball and/or football
 
