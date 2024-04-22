@@ -19,10 +19,10 @@ Here are some ideas to get you started:
  
  :sparkles: I am proficient in the following:
 
--:pushpin: Fullstack Software Development, AI Enthusiast⚡\
--:pushpin: AI-ML,C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
--:pushpin: Experience building custom AI solutions for SMEs - Check out [NEWAGE AI](https://newageai.tech) \
--:pushpin: UI/UX Design: Figma and Adobe XD
+- :pushpin: Fullstack Software Development, AI Enthusiast⚡\
+- :pushpin: AI-ML,C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
+- :pushpin: Experience building custom AI solutions for SMEs - Check out [NEWAGE AI](https://newageai.tech) \
+- :pushpin: UI/UX Design: Figma and Adobe XD
 
 - 👯 I’m looking to collaborate on interesting AI related projects!
 - 🌱 I’m currently building AI agents for SMEs in Kenya 
