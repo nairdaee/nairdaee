@@ -19,22 +19,20 @@ Here are some ideas to get you started:
  
  :sparkles: I am proficient in the following:
 
--:pushpin: Fullstack Software Development - Django⚡\
+-:pushpin: Fullstack Software Development, AI Enthusiast⚡\
 -:pushpin: AI-ML,C,C# ASP.NET, Java, JavaScript - React, PHP, Python - Pandas \
--:pushpin: Some experience with Shopify(Liquid)\
+-:pushpin: Experience building custom AI solutions for SMEs - Check out [NEWAGE AI](https://newageai.tech)
 -:pushpin: UI/UX Design: Figma and Adobe XD
 
-- 👯 I’m looking to collaborate on interesting tech related projects!
-- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on interesting AI related projects!
+- 🌱 I’m currently building AI agents for SMEs in Kenya 
 - 📫 How to reach me: etadriano2@gmail.com
-- ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time, I love playing basketball and/or football
-
+- ⚡ Fun fact: I love music(esp. the 90s classics😄). During my free time, I love cars!!!
 ### 💬 Get to know more about me:
 * **LinkedIn:** [Adrian Etenyi](https://www.linkedin.com/in/adrian-etenyi-4590791b2/)
 
 ### My GitHub stats
 
-This doesn't take into account the work done in forks, private organizations, and/or Gitlab...
 <a href="https://github.com/nairdaee"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=nairdaee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true&show_icons=true"></a>
 
 <a href="https://github.com/nairdaee">
